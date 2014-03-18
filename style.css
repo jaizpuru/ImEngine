@@ -1,0 +1,8 @@
+body {
+    background-color: grey;
+}
+
+#viewport {
+    width: 960px;
+    height: 960px;
+}
